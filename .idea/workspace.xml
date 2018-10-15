@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18020db6-383e-4cb4-b829-10ad2a36de56" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShmozoElo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/ShmozoElo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
+                <element signature="e#112#161#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginBase.php" pinned="false" current-in-tab="false">
+        <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/plugin/PluginBase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="135" column="34" lean-forward="true" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoreListener.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/listeners/CoreListener.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="33" column="52" lean-forward="false" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+              <folding>
+                <element signature="e#38#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractEnum.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/utils/AbstractEnum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+              <folding>
+                <element signature="e#33#47#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="standard_9.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="722" column="9" lean-forward="false" selection-start-line="722" selection-start-column="9" selection-end-line="722" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPacket.php" pinned="false" current-in-tab="false">
+        <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/network/mcpe/protocol/LoginPacket.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EloManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/player/EloManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <folding>
+                <element signature="e#120#142#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EloPlayer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/player/EloPlayer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding>
+                <element signature="e#35#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EloRating.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/elo/EloRating.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Proxying/sql/Database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1184">
+              <caret line="154" column="89" lean-forward="true" selection-start-line="154" selection-start-column="89" selection-end-line="154" selection-end-column="89" />
+              <folding>
+                <element signature="e#32#67#0#PHP" expanded="true" />
+                <marker date="1503081918559" expanded="true" signature="2434:2474" ph="SELECT playe... player_keys" />
+                <marker date="1503081918559" expanded="true" signature="2434:2525" ph="SELECT playe... player_keys" />
+                <marker date="1503081918559" expanded="true" signature="2434:2526" ph="SELECT playe... player_keys" />
+                <marker date="1503081918559" expanded="true" signature="3048:3098" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3143" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3149" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3150" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3151" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3152" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3200" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3048:3201" ph="INSERT INTO player_keys... " />
+                <marker date="1503081918559" expanded="true" signature="3456:3605" ph="UPDATE playe... " />
+                <marker date="1503081918559" expanded="true" signature="3929:3972" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="3929:3985" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="3929:3989" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="3929:3995" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="3929:3996" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="3929:3997" ph="SELECT * FRO... kit_pvp_elo" />
+                <marker date="1503081918559" expanded="true" signature="4761:4839" ph="INSERT INTO kit_pvp_elo... " />
+                <marker date="1503081918559" expanded="true" signature="4761:4914" ph="INSERT INTO kit_pvp_elo... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xuid</find>
+      <find>getName</find>
+      <find>clientsecret</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/sql/EloSQL.php" />
+        <option value="$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/sql/ShmozoEloSQL.php" />
+        <option value="$PROJECT_DIR$/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/listeners/CoreListener.php" />
+        <option value="$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/ShmozoElo.php" />
+        <option value="$PROJECT_DIR$/src/ShmozoElo/ShmozoElo.php" />
+        <option value="$PROJECT_DIR$/src/ShmozoElo/listeners/CoreListener.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/sql/ShmozoEloSQL.php" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/resources/config.yml" />
+        <option value="$PROJECT_DIR$/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/Proxying/utils/AbstractEnum.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/elo/EloTypes.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/elo/EloRating.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/player/EloPlayer.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/ShmozoElo.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/listeners/CoreListener.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/sql/Database.php" />
+        <option value="$PROJECT_DIR$/src/Proxying/player/EloManager.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="284" />
+    <option name="y" value="81" />
+    <option name="width" value="1465" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="libs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="elo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="listeners" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="player" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sql" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHPEloSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPEloSystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Proxying" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="utils" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem\libs" />
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem\resources" />
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem\src\uk.co.proxying\ShmozoElo\sql" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem\libs" />
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem\src" />
+      <recent name="C:\Users\Kieran\Desktop\Minecraft Extra\Modding\McMod\Work Projects\PHPEloSystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18020db6-383e-4cb4-b829-10ad2a36de56" name="Default" comment="" />
+      <created>1502300978736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502300978736</updated>
+      <workItem from="1502300980722" duration="8622000" />
+      <workItem from="1502356972933" duration="2896000" />
+      <workItem from="1502359940406" duration="78000" />
+      <workItem from="1502465545297" duration="4183000" />
+      <workItem from="1502484967038" duration="4875000" />
+      <workItem from="1502535489340" duration="7669000" />
+      <workItem from="1502989893444" duration="2260000" />
+      <workItem from="1502994980549" duration="930000" />
+      <workItem from="1503073539636" duration="8716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40229000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13802083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="file://$PROJECT_DIR$/src/Proxying/listeners/CoreListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#38#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/ShmozoElo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#162#194#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/listeners/CoreListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#38#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/event/player/PlayerEvent.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="file://$PROJECT_DIR$/src/Proxying/sql/ShmozoEloSQL.php" />
+    <entry file="file://$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/sql/Query.php" />
+    <entry file="file://$PROJECT_DIR$/src/uk.co.proxying/ShmozoElo/sql/EloSQL.php" />
+    <entry file="file://$PROJECT_DIR$/resources/plugin.yml" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/event/player/PlayerDeathEvent.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/event/player/PlayerEvent.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/Proxying/sql/ShmozoEloSQL.php" />
+    <entry file="file://$PROJECT_DIR$/resources/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-Steadfast_1.5.1-hybrid.phar/src/pocketmine/event/player/PlayerDeathEvent.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-Steadfast_1.5.1-hybrid.phar/src/pocketmine/Player.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-Steadfast_1.5.1-hybrid.phar/src/pocketmine/network/Network.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-Steadfast_1.5.1-hybrid.phar/src/pocketmine/Server.php" />
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-Steadfast_1.5.1-hybrid.phar/src/pocketmine/scheduler/ServerScheduler.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14467">
+          <caret line="854" column="20" lean-forward="false" selection-start-line="854" selection-start-column="20" selection-end-line="854" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14824">
+          <caret line="872" column="9" lean-forward="false" selection-start-line="872" selection-start-column="9" selection-end-line="872" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/event/player/PlayerPreLoginEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="327" column="20" lean-forward="false" selection-start-line="327" selection-start-column="20" selection-end-line="327" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="327" column="20" lean-forward="false" selection-start-line="327" selection-start-column="20" selection-end-line="327" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="231" column="25" lean-forward="false" selection-start-line="231" selection-start-column="13" selection-end-line="231" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="231" column="25" lean-forward="false" selection-start-line="231" selection-start-column="13" selection-end-line="231" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="231" column="25" lean-forward="false" selection-start-line="231" selection-start-column="13" selection-end-line="231" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="231" column="25" lean-forward="false" selection-start-line="231" selection-start-column="13" selection-end-line="231" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/scheduler/ServerScheduler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/scheduler/AsyncTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/scheduler/Task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/scheduler/PluginTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/elo/EloTypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#31#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="115" column="13" lean-forward="false" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/elo/EloRating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/network/mcpe/protocol/LoginPacket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="722" column="9" lean-forward="false" selection-start-line="722" selection-start-column="9" selection-end-line="722" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/ShmozoElo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#112#161#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/libs/PocketMine-MP.phar/src/pocketmine/plugin/PluginBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="135" column="34" lean-forward="true" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/player/EloPlayer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#35#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/utils/AbstractEnum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <element signature="e#33#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/listeners/CoreListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="33" column="52" lean-forward="false" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding>
+            <element signature="e#38#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/player/EloManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="e#120#142#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxying/sql/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="154" column="89" lean-forward="true" selection-start-line="154" selection-start-column="89" selection-end-line="154" selection-end-column="89" />
+          <folding>
+            <element signature="e#32#67#0#PHP" expanded="true" />
+            <marker date="1503081918559" expanded="true" signature="2434:2474" ph="SELECT playe... player_keys" />
+            <marker date="1503081918559" expanded="true" signature="2434:2525" ph="SELECT playe... player_keys" />
+            <marker date="1503081918559" expanded="true" signature="2434:2526" ph="SELECT playe... player_keys" />
+            <marker date="1503081918559" expanded="true" signature="3048:3098" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3143" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3149" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3150" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3151" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3152" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3200" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3048:3201" ph="INSERT INTO player_keys... " />
+            <marker date="1503081918559" expanded="true" signature="3456:3605" ph="UPDATE playe... " />
+            <marker date="1503081918559" expanded="true" signature="3929:3972" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="3929:3985" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="3929:3989" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="3929:3995" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="3929:3996" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="3929:3997" ph="SELECT * FRO... kit_pvp_elo" />
+            <marker date="1503081918559" expanded="true" signature="4761:4839" ph="INSERT INTO kit_pvp_elo... " />
+            <marker date="1503081918559" expanded="true" signature="4761:4914" ph="INSERT INTO kit_pvp_elo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

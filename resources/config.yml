@@ -1,0 +1,5 @@
+database_ip: "IP"
+database_port: 3306
+database_name: "NAME"
+database_user: "USER"
+database_password: "PASS"
